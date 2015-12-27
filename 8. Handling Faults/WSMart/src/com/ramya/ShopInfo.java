@@ -6,7 +6,10 @@ import javax.jws.WebResult;
 import javax.jws.WebService;
 
 import com.ramya.exception.InvalidInputException;
-
+/**
+* @author
+* Ramya Lanka
+*/
 @WebService
 public class ShopInfo {
 	
